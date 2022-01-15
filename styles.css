@@ -115,16 +115,19 @@ body{
     border-radius: 12px;
 }
 .js-progress{
-    width: 70%;
+    width: 65%;
 }
 .ps-progress{
     width: 90%;
 }
+.laravel-progress{
+    width: 65%;
+}
 .j-progress{
-    width: 85%;
+    width: 65%;
 }
 .c-progress{
-    width: 40%;
+    width: 89%;
 }
 .n-progress{
     width: 63%;
